@@ -1,0 +1,238 @@
+[
+  {
+    "city": "Kitchener",
+    "lat": "43.446976",
+    "lng": "-80.472484"
+  },
+  {
+    "city": "Waterloo",
+    "lat": "43.4643",
+    "lng": "-80.5204"
+  },
+  {
+    "city": "Toronto",
+    "lat": "43.666667",
+    "lng": "-79.416667"
+  },
+  {
+    "city": "Ottawa",
+    "capital": "primary",
+    "lat": "45.416667",
+    "lng": "-75.7"
+  },
+  {
+    "city": "Hamilton",
+    "lat": "43.256101",
+    "lng": "-79.857484"
+  },
+  {
+    "city": "Oshawa",
+    "lat": "43.9",
+    "lng": "-78.866667"
+  },
+  {
+    "city": "London",
+    "lat": "42.983333",
+    "lng": "-81.25"
+  },
+  {
+    "city": "Windsor",
+    "lat": "42.301649",
+    "lng": "-83.030744"
+  },
+  {
+    "city": "Barrie",
+    "lat": "44.383333",
+    "lng": "-79.7"
+  },
+  {
+    "city": "Sudbury",
+    "lat": "46.5",
+    "lng": "-80.966667"
+  },
+  {
+    "city": "Sarnia",
+    "lat": "42.978417",
+    "lng": "-82.388177"
+  },
+  {
+    "city": "Kingston",
+    "lat": "44.3",
+    "lng": "-76.566667"
+  },
+  {
+    "city": "Thunder Bay",
+    "lat": "48.4",
+    "lng": "-89.233333"
+  },
+  {
+    "city": "Peterborough",
+    "lat": "44.3",
+    "lng": "-78.333333"
+  },
+  {
+    "city": "North Bay",
+    "lat": "46.3",
+    "lng": "-79.45"
+  },
+  {
+    "city": "Cornwall",
+    "lat": "45.016667",
+    "lng": "-74.733333"
+  },
+  {
+    "city": "Belleville",
+    "lat": "44.166667",
+    "lng": "-77.383333"
+  },
+  {
+    "city": "Orillia",
+    "lat": "44.6",
+    "lng": "-79.416667"
+  },
+  {
+    "city": "Timmins",
+    "lat": "48.466667",
+    "lng": "-81.333333"
+  },
+  {
+    "city": "Orangeville",
+    "lat": "43.916366",
+    "lng": "-80.096671"
+  },
+  {
+    "city": "Brockville",
+    "lat": "44.594958",
+    "lng": "-75.682133"
+  },
+  {
+    "city": "Owen Sound",
+    "lat": "44.566667",
+    "lng": "-80.85"
+  },
+  {
+    "city": "Pembroke",
+    "lat": "45.816667",
+    "lng": "-77.116667"
+  },
+  {
+    "city": "Kenora",
+    "lat": "49.766667",
+    "lng": "-94.466667"
+  },
+  {
+    "city": "Kapuskasing",
+    "lat": "49.416667",
+    "lng": "-82.433333"
+  },
+  {
+    "city": "Dryden",
+    "lat": "49.783333",
+    "lng": "-92.833333"
+  },
+  {
+    "city": "Parry Sound",
+    "lat": "45.333333",
+    "lng": "-80.033333"
+  },
+  {
+    "city": "New Liskeard",
+    "lat": "47.5",
+    "lng": "-79.666667"
+  },
+  {
+    "city": "Hearst",
+    "lat": "49.7",
+    "lng": "-83.666667"
+  },
+  {
+    "city": "Marathon",
+    "lat": "48.75",
+    "lng": "-86.366667"
+  },
+  {
+    "city": "Cochrane",
+    "lat": "49.066667",
+    "lng": "-81.016667"
+  },
+  {
+    "city": "Deer Lake",
+    "lat": "52.616667",
+    "lng": "-94.066667"
+  },
+  {
+    "city": "Atikokan",
+    "lat": "48.75",
+    "lng": "-91.616667"
+  },
+  {
+    "city": "Chapleau",
+    "lat": "47.833333",
+    "lng": "-83.4"
+  },
+  {
+    "city": "Wiarton",
+    "lat": "44.733333",
+    "lng": "-81.133333"
+  },
+  {
+    "city": "Wawa",
+    "lat": "47.99473",
+    "lng": "-84.77002"
+  },
+  {
+    "city": "Attawapiskat",
+    "lat": "52.916667",
+    "lng": "-82.433333"
+  },
+  {
+    "city": "Red Lake",
+    "lat": "51.033333",
+    "lng": "-93.833333"
+  },
+  {
+    "city": "Moosonee",
+    "lat": "51.266667",
+    "lng": "-80.65"
+  },
+  {
+    "city": "Little Current",
+    "lat": "45.966667",
+    "lng": "-81.933333"
+  },
+  {
+    "city": "Thessalon",
+    "lat": "46.25",
+    "lng": "-83.55"
+  },
+  {
+    "city": "Geraldton",
+    "lat": "49.716667",
+    "lng": "-86.966667"
+  },
+  {
+    "city": "Nipigon",
+    "lat": "49.016667",
+    "lng": "-88.25"
+  },
+  {
+    "city": "Cat Lake",
+    "lat": "51.716667",
+    "lng": "-91.8"
+  },
+  {
+    "city": "Fort Severn",
+    "lat": "55.983333",
+    "lng": "-87.65"
+  },
+  {
+    "city": "Lansdowne House",
+    "lat": "52.216667",
+    "lng": "-87.883333"
+  },
+  {
+    "city": "Big Beaverhouse",
+    "lat": "52.95",
+    "lng": "-89.883333"
+  }
+]

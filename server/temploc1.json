@@ -1,0 +1,2139 @@
+[
+  {
+    "intersection": "Bay St/ College St",
+    "city": "Toronto",
+    "id": 12043,
+    "locationTypeId": 1,
+    "waitTime": 100,
+    "displayNumber": "(416) 757-1511",
+    "name": "777 Bay  Street, Lower Level, College Park",
+    "locationGuid": "5cb81bba-68ae-4f72-bc84-8d6dfaa96651",
+    "location": {
+      "lat": 43.6604898,
+      "lon": -79.3866446
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Register a vehicle",
+      "Replace health card",
+      "Renew an Ontario photo card",
+      "Apply for an Ontario photo card",
+      "Get a driver's licence",
+
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+      "Change address on a driver's licence",
+      "change licence class or endorsement",
+      "Change name on a driver's licence",
+      "Change driver's licence endorsement",
+      "Change driver's licence class",
+      "Request a temporary vehicle registration sticker",
+      "Replace licence plate(s)",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Replace an outdoors card",
+      "Apply for an Ontario health card",
+      "Replace a vehicle permit",
+      "Change the address on a vehicle permit",
+      "Make a corporations tax insurance premium payment",
+      "Renew accessible parking permit",
+      "Change or cancel business name",
+      "Apply for a Ontario resident sport fishing licence",
+      "File an Employer Health Tax return",
+      "Request Articles of Incorporation"
+    ],
+    "override": "A",
+    "schedules": [
+      {
+        "id": 901,
+        "name": "May 18, 2020",
+        "openings": [
+          {
+            "id": 1606440,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday May 18.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 18 mai.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1606390,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 884,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1292740,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday February 17.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 17 février.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292690,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1122,
+        "name": "December 25/26 2019",
+        "openings": [
+          {
+            "id": 1293240,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed December 25 and 26.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le 25 et 26 décembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1293190,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 886,
+        "name": "September 2, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 30,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 7200,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "name": "November 11, 2019",
+        "openings": [
+          {
+            "id": 1292640,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed on Monday November 11.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le lundi 11 novembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292590,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1081,
+        "name": "January 1, 2020",
+        "openings": [
+          {
+            "id": 1248790,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Wednesday January 1.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le mercredi 1 janvier.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1248740,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 903,
+        "name": "August 5, 2019",
+        "openings": [
+          {
+            "id": 1291790,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed Monday August 5.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce Centre ServiceOntario sera fermé le lundi 5 août.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291740,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 731,
+        "name": "October 14, 2019",
+        "openings": [
+          {
+            "id": 1291890,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed on Monday October 14.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tous les Centres ServiceOntario sera fermé le lundi 14 octobre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291840,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "July 1, 2019",
+        "openings": [
+          {
+            "id": 1609640,
+            "scheduleId": 0,
+            "month": "JULY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 885,
+        "name": "April 10/April 13, 2020",
+        "openings": [
+          {
+            "id": 1606490,
+            "scheduleId": 0,
+            "month": "APRIL",
+            "dayOfMonth": 10,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 5760,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Sheppard Avenue E/ MoCowan Rd",
+    "city": "Toronto",
+    "id": 11752,
+    "displayNumber": "(416) 757-1511",
+    "locationTypeId": 9,
+    "waitTime": 20,
+    "name": "4800 Sheppard Avenue East, Unit 112, Agincourt",
+    "locationGuid": "9794caf4-84b0-4d8e-be6b-c54b10681ba1",
+    "location": {
+      "lat": 43.7914362,
+      "lon": -79.2537992
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Register a vehicle",
+      "Renew an Ontario photo card",
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+      "Replace health card",
+      "Change address on a driver's licence",
+      "Change name on a driver's licence",
+      "Change driver's licence endorsement",
+      "Change driver's licence class",
+      "Request a temporary vehicle registration sticker",
+      "Change the address on a vehicle permit",
+      "Replace licence plate(s)",
+      "Apply for an Ontario photo card",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Apply for an Ontario health card"
+    ],
+    "schedules": [
+      {
+        "id": 886,
+        "name": "September 30, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 30,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 7200,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Lawrence Avenue E/ Kennedy Rd",
+    "city": "Toronto",
+    "id": 11940,
+    "locationTypeId": 9,
+    "waitTime": 15,
+    "displayNumber": "(416) 757-1511",
+    "name": "2300 Lawrence Avenue East, Unit 7, Scarborough North",
+    "locationGuid": "f8b26618-0897-45a6-9874-2a0845f36a57",
+    "location": {
+      "lat": 43.7505763,
+      "lon": -79.2798676
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Register a vehicle",
+      "Replace licence plate(s)",
+      "Replace health card",
+      "Renew an Ontario photo card",
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+      "Change address on a driver's licence",
+      "Change name on a driver's licence",
+      "Change driver's licence endorsement",
+      "Change driver's licence class",
+      "driver and vehicle records",
+      "Change Information on an Ontario photo card",
+      "Request a temporary vehicle registration sticker",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Apply for an Ontario photo card",
+      "Apply for an Ontario health card",
+      "Change the address on a vehicle permit"
+    ],
+    "schedules": []
+  },
+  {
+    "intersection": "Lawrence Avenue E/ Markham Rd",
+    "city": "Toronto",
+    "id": 12228,
+    "locationTypeId": 1,
+    "waitTime": 20,
+    "displayNumber": "(416) 757-1511",
+    "name": "3495  Lawrence Avenue East, Cedarbrae Mall",
+    "locationGuid": "bbf1b73c-cb92-4874-b02e-107deb113356",
+    "location": {
+      "lat": 43.757291,
+      "lon": -79.2315671
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Register a vehicle ",
+      "Replace health card",
+      "Renew an Ontario photo card",
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+
+      "Replace licence plate(s)",
+      "driver and vehicle records",
+      "Request a temporary vehicle registration sticker",
+      "Change the address on a vehicle permit",
+      "Apply for an Ontario photo card",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Apply or replace a marriage certificate",
+      "Apply for an Ontario health card"
+    ],
+    "schedules": [
+      {
+        "id": 901,
+        "name": "November 18, 2019",
+        "openings": [
+          {
+            "id": 1606440,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 10,
+            "dayOfWeek": "THURSDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 54720,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday May 18.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 18 mai.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1606390,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 884,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1292740,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday February 17.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 17 février.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292690,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1122,
+        "name": "December 25/26 2019",
+        "openings": [
+          {
+            "id": 1293240,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed December 25 and 26.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le 25 et 26 décembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1293190,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 886,
+        "name": "September 2, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "name": "November 11, 2019",
+        "openings": [
+          {
+            "id": 1292640,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed on Monday November 11.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le lundi 11 novembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292590,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1081,
+        "name": "January 1, 2020",
+        "openings": [
+          {
+            "id": 1248790,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Wednesday January 1.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le mercredi 1 janvier.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1248740,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 903,
+        "name": "August 5, 2019",
+        "openings": [
+          {
+            "id": 1291790,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed Monday August 5.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce Centre ServiceOntario sera fermé le lundi 5 août.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291740,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 731,
+        "name": "October 14, 2019",
+        "openings": [
+          {
+            "id": 1291890,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed on Monday October 14.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tous les Centres ServiceOntario sera fermé le lundi 14 octobre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291840,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "July 1, 2019",
+        "openings": [
+          {
+            "id": 1609640,
+            "scheduleId": 0,
+            "month": "JULY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 885,
+        "name": "April 10/April 13, 2020",
+        "openings": [
+          {
+            "id": 1606490,
+            "scheduleId": 0,
+            "month": "APRIL",
+            "dayOfMonth": 10,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 5760,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Sheppard Avenue E/ Yonge St",
+    "city": "Toronto",
+    "id": 11801,
+    "locationTypeId": 1,
+    "waitTime": 45,
+    "displayNumber": "(416) 757-1511",
+    "name": "47 Sheppard Avenue East, Unit 417 4th Flr",
+    "locationGuid": "ce07c447-320e-4b53-94fe-cad559933c12",
+    "location": {
+      "lat": 43.7611909,
+      "lon": -79.4101002
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Register a vehicle ",
+      "Order or replace a birth certificate",
+      "Replace an outdoors card",
+      "Renew an Ontario photo card",
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+      "Replace health card",
+      "Replace licence plate(s)",
+      "driver and vehicle records",
+      "Request a temporary vehicle registration sticker",
+      "Change the address on a vehicle permit",
+      "Apply for an Ontario photo card",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Apply or replace a marriage certificate",
+      "Apply for an Ontario health card"
+    ],
+    "schedules": [
+      {
+        "id": 901,
+        "name": "May 18, 2020",
+        "openings": [
+          {
+            "id": 1606440,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday May 18.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 18 mai.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1606390,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 884,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1292740,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday February 17.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 17 février.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292690,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1122,
+        "name": "December 25/26 2019",
+        "openings": [
+          {
+            "id": 1293240,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed December 25 and 26.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le 25 et 26 décembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1293190,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 886,
+        "name": "September 2, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "name": "November 11, 2019",
+        "openings": [
+          {
+            "id": 1292640,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed on Monday November 11.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le lundi 11 novembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292590,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1081,
+        "name": "January 1, 2020",
+        "openings": [
+          {
+            "id": 1248790,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Wednesday January 1.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le mercredi 1 janvier.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1248740,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 903,
+        "name": "August 5, 2019",
+        "openings": [
+          {
+            "id": 1291790,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed Monday August 5.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce Centre ServiceOntario sera fermé le lundi 5 août.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291740,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 731,
+        "name": "October 14, 2019",
+        "openings": [
+          {
+            "id": 1291890,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed on Monday October 14.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tous les Centres ServiceOntario sera fermé le lundi 14 octobre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291840,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "July 1, 2019",
+        "openings": [
+          {
+            "id": 1609640,
+            "scheduleId": 0,
+            "month": "JULY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 885,
+        "name": "April 10/April 13, 2020",
+        "openings": [
+          {
+            "id": 1606490,
+            "scheduleId": 0,
+            "month": "APRIL",
+            "dayOfMonth": 10,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 5760,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Elgin St/ Laurier Ave W",
+    "city": "Ottawa",
+    "id": 12089,
+    "locationTypeId": 1,
+    "displayNumber": "(416) 757-1511",
+    "waitTime": 45,
+    "name": "110 Laurier Avenue West, Ottawa City Hall",
+    "locationGuid": "7831144d-a6b4-412c-9dc5-edf60aa2dd73",
+    "location": {
+      "lat": 45.420668,
+      "lon": -75.6920682
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Replace an outdoors card",
+      "Register a vehicle",
+      "Renew an Ontario photo card",
+      "Replace a driver's licence",
+      "Order or replace a birth certificate",
+      "Replace health card",
+      "Replace licence plate(s)",
+      "Apply for an Ontario photo card"
+    ],
+    "schedules": [
+      {
+        "id": 901,
+        "name": "May 18, 2020",
+        "openings": [
+          {
+            "id": 1606440,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday May 18.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 18 mai.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1606390,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 884,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1292740,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday February 17.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 17 février.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292690,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1122,
+        "name": "December 25/26 2019",
+        "openings": [
+          {
+            "id": 1293240,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed December 25 and 26.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le 25 et 26 décembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1293190,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 886,
+        "name": "September 2, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "name": "November 11, 2019",
+        "openings": [
+          {
+            "id": 1292640,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed on Monday November 11.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le lundi 11 novembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292590,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1081,
+        "name": "January 1, 2020",
+        "openings": [
+          {
+            "id": 1248790,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Wednesday January 1.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le mercredi 1 janvier.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1248740,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 903,
+        "name": "August 5, 2019",
+        "openings": [
+          {
+            "id": 1291790,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed Monday August 5.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce Centre ServiceOntario sera fermé le lundi 5 août.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291740,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 731,
+        "name": "October 14, 2019",
+        "openings": [
+          {
+            "id": 1291890,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed on Monday October 14.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tous les Centres ServiceOntario sera fermé le lundi 14 octobre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291840,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "July 1, 2019",
+        "openings": [
+          {
+            "id": 1609640,
+            "scheduleId": 0,
+            "month": "JULY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 885,
+        "name": "April 10/April 13, 2020",
+        "openings": [
+          {
+            "id": 1606490,
+            "scheduleId": 0,
+            "month": "APRIL",
+            "dayOfMonth": 10,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 5760,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Conxession Rd/ Prescott Rd",
+    "city": "Kemptville",
+    "id": 12680,
+    "locationTypeId": 1,
+    "displayNumber": "(416) 757-1511",
+    "name": "10 Campus  Drive",
+    "waitTime": 20,
+    "locationGuid": "85a004d8-9ba0-441f-80cd-420e4209da0b",
+    "location": {
+      "lat": 45.0094293,
+      "lon": -75.6433128
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Replace health card",
+      "Replace a driver's licence",
+      "Renew an Ontario photo card",
+      "Replace an outdoors card",
+      "Register a vehicle ",
+      "Reinstate driver's licence",
+      "Change address on a driver's licence",
+      "Change name on a driver's licence",
+
+      "Replace licence plate(s)",
+      "Apply for an Ontario photo card",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Apply for an Ontario health card",
+      "Replace a vehicle permit"
+    ],
+    "schedules": [
+      {
+        "id": 901,
+        "name": "May 18, 2020",
+        "openings": [
+          {
+            "id": 1606440,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday May 18.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 18 mai.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1606390,
+            "scheduleId": 0,
+            "month": "MAY",
+            "dayOfMonth": 18,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 884,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1292740,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday February 17.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 17 février.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292690,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1122,
+        "name": "December 25/26 2019",
+        "openings": [
+          {
+            "id": 1293240,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed December 25 and 26.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le 25 et 26 décembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1293190,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 886,
+        "name": "September 2, 2019",
+        "openings": [
+          {
+            "id": 1292540,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Monday September 2.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le lundi 2 septembre.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292490,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 2,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "name": "November 11, 2019",
+        "openings": [
+          {
+            "id": 1292640,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed on Monday November 11.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce centre ServiceOntario sera fermé le lundi 11 novembre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1292590,
+            "scheduleId": 0,
+            "month": "NOVEMBER",
+            "dayOfMonth": 11,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 1081,
+        "name": "January 1, 2020",
+        "openings": [
+          {
+            "id": 1248790,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed Wednesday January 1.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tout les Centres ServiceOntario sera fermé le mercredi 1 janvier.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1248740,
+            "scheduleId": 0,
+            "month": "JANUARY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 903,
+        "name": "August 5, 2019",
+        "openings": [
+          {
+            "id": 1291790,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "This ServiceOntario centre will be closed Monday August 5.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca href\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" target\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?WT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Ce Centre ServiceOntario sera fermé le lundi 5 août.\u003c\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne :  Renouvellement votre \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, renouvellement de la \u003ca href\u003d\"https://www.ontario.ca/fr/page/renouveler-une-vignette-dimmatriculation\" target\u003d\"_blank\"\u003evignette d\u0027immatriculation\u003c/a\u003e, résumé de \u003ca href\u003d\"https://www.ontario.ca/fr/page/commander-un-dossier-de-conduite\" targt\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca href\u003d\"https://www.ontario.ca/fr/page/changez-ladresse-sur-permis-de-conduire-le-certificat-dimmatriculation-et-votre-carte-sante\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291740,
+            "scheduleId": 0,
+            "month": "AUGUST",
+            "dayOfMonth": 5,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 731,
+        "name": "October 14, 2019",
+        "openings": [
+          {
+            "id": 1291890,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All ServiceOntario centres will be closed on Monday October 14.\u003cbr /\u003e\u003cbr /\u003e\u003cspan style\u003d\"color: #000000;\"\u003eTake advantage of our online services:  Renew your \u003ca \n\nhref\u003d\"https://www.ontario.ca/page/renew-both-your-health-card-and-drivers-licence-online?utm_source\u003dso\u0026utm_medium\u003dkeyword\u0026utm_campaign\u003doriginal%2F\" \n\ntarget\u003d\"_blank\"\u003ehealth card and driver\u0027s licence\u003c/a\u003e, renew your \u003ca href\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025225.html?\n\nWT.ac\u003dLPSR\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003elicence plate sticker\u003c/a\u003e, change your \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/STEL02_040172.html?WT.ac\u003dAddress\u0026amp;WT.govon_mod_loc\u003dPopularService\" target\u003d\"_blank\"\u003eaddress\u003c/a\u003e or order a \u003ca \n\nhref\u003d\"http://www.ontario.ca/en/services_for_residents/ONT06_025218.html?WT.ac\u003dDA\u0026amp;WT.govon_mod_loc\u003dDriveServLand\" target\u003d\"_blank\"\u003edriver abstract\u003c/a\u003e online. \n\u003c/span\u003e\u003c/p\u003e",
+            "notificationMsgFr": "Tous les Centres ServiceOntario sera fermé le lundi 14 octobre.\u003cbr\u003e\u003cbr\u003e\u003cspan style\u003d\"color: #000000;\"\u003eProfitez de nos services en ligne : Renouvellement votre \u003ca \n\nhref\u003d\"https://www.ontario.ca/fr/page/renouvelez-votre-carte-sante-et-votre-permis-de-conduire-en-ligne\" target\u003d\"_blank\"\u003ecarte Santé et votre permis de conduire\u003c/a\u003e, \n\nrenouvellement de la \u003ca href\u003d\"http://www.ontario.ca/fr/services_forresidents/ONT06_025261.html\" target\u003d\"_blank\"\u003evignette dimmatriculation\u003c/a\u003e, résumé de \u003ca \n\nhref\u003d\"http://www.ontaio.ca/fr/services_for_residents/ONT06_025254.html\" target\u003d\"_blank\"\u003edossier du conducteur\u003c/a\u003e, ou changement \u003ca \n\nhref\u003d\"http://www.ontario.ca/fr/services_for_residents/STEL02_040313.html\" target\u003d\"_blank\"\u003ed\u0027adresse.\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+            "repeats": false
+          },
+          {
+            "id": 1291840,
+            "scheduleId": 0,
+            "month": "OCTOBER",
+            "dayOfMonth": 14,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "July 1, 2019",
+        "openings": [
+          {
+            "id": 1609640,
+            "scheduleId": 0,
+            "month": "JULY",
+            "dayOfMonth": 1,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 885,
+        "name": "April 10/April 13, 2020",
+        "openings": [
+          {
+            "id": 1606490,
+            "scheduleId": 0,
+            "month": "APRIL",
+            "dayOfMonth": 10,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 5760,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "intersection": "Pitt St/ Union St",
+    "city": "Picton",
+    "id": 11384,
+    "locationTypeId": 3,
+    "displayNumber": "(416) 757-1511",
+    "waitTime": 15,
+    "name": "1 Pitt Street, Prince Edward - Land Registry Office #47",
+    "locationGuid": "368b8a36-d76a-499c-91e1-d12953f934bd",
+    "location": {
+      "lat": 44.0070659,
+      "lon": -77.1367754
+    },
+    "services": [
+      "Renew a driver's licence",
+      "Renew an Ontario photo card",
+      "Register a vehicle",
+      "Replace health card",
+      "change licence or endorsement",
+      "Replace a driver's licence",
+      "Reinstate driver's licence",
+      "Change address on a driver's licence",
+      "Change name on a driver's licence",
+      "Change driver's licence endorsement",
+      "Change driver's licence class",
+      "driver and vehicle records",
+      "Request a temporary vehicle registration sticker",
+      "Change the address on a vehicle permit",
+      "Replace licence plate(s)",
+      "Apply for an Ontario photo card",
+      "Change Information on an Ontario photo card",
+      "Replace accessible parking permit",
+      "Change name on a health card",
+      "Request Articles of Incorporation",
+      "Apply for an Ontario health card",
+      "Replace a vehicle "
+    ],
+    "schedules": [
+      {
+        "id": 719,
+        "name": "December 25 and 26, 2019",
+        "openings": [
+          {
+            "id": 1249440,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed December 25 and 26.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le 25 et 26 décembre.",
+            "repeats": false
+          },
+          {
+            "id": 1249390,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 961,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1249540,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed on Monday February 17.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le lundi 17 février.",
+            "repeats": false
+          },
+          {
+            "id": 1249490,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  }
+]

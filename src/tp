@@ -1,0 +1,103 @@
+ <b-card
+          title="Find a Location"
+          style=" align-items:center; width: 30rem; margin-bottom: 10px;"
+          class="mx-auto order-0"
+        >
+          <b-card-text>
+            <div class="input-group md-form form-sm form-1 pl-0">
+              <div class="input-group-prepend">
+                <span class="input-group-text purple lighten-3" id="basic-text1">
+                  <mdbIcon icon="search" />
+                </span>
+              </div>
+              <input
+                class="form-control my-0 py-1"
+                type="text"
+                placeholder="Type City or Street"
+                aria-label="Search"
+              />
+            </div>
+          </b-card-text>
+        </b-card>
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <b-card title="Card title" sub-title="Card subtitle">
+          <b-card-text>
+            Some quick example text to build on the
+            <em>card title</em> and make up the bulk of the card's
+            content.
+          </b-card-text>
+
+          <b-card-text>A second paragraph of text in the card.</b-card-text>
+
+          <a href="#" class="card-link">Card link</a>
+          <b-link href="#" class="card-link">Another link</b-link>
+        </b-card>
+
+        <div class="mt-3">
+          <h6>Pagination</h6>
+          <b-pagination v-model="currentPage" :total-rows="rows"></b-pagination>
+        </div>

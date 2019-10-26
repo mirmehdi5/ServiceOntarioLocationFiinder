@@ -1,0 +1,480 @@
+[
+  {
+    "city": "Guelph",
+    "id": 11365,
+    "locationTypeId": 3,
+    "displayNumber": "(416) 757-1511",
+    "name": "1 Stone Road West, Wellington ",
+    "locationGuid": "8e290834-ce2a-448a-aef4-579c9c333ad8",
+    "waitTime": 10,
+    "location": {
+      "lat": 43.526271,
+      "lon": -80.226774
+    },
+    "services": ["photocard"],
+    "schedules": [
+      {
+        "id": 719,
+        "name": "December 25 and 26, 2019",
+        "openings": [
+          {
+            "id": 1249440,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 30,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed December 25 and 26.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le 25 et 26 décembre.",
+            "repeats": false
+          },
+          {
+            "id": 1249390,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 961,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1249540,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed on Monday February 17.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le lundi 17 février.",
+            "repeats": false
+          },
+          {
+            "id": 1249490,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Burlington",
+    "id": 11794,
+    "locationTypeId": 9,
+    "displayNumber": "(416) 757-1511",
+    "name": "1250  Brant Street, Unit 9A, Burlington West",
+    "locationGuid": "b35d1d48-fa5a-46f6-8c7d-d36aaa29f1cc",
+    "waitTime": 22,
+    "location": {
+      "lat": 43.3436808,
+      "lon": -79.8300846
+    },
+    "services": [
+      "Renew driver license",
+      "Replace driver's license",
+      "reinstate driver's license",
+      "change info on driver's license",
+      "get temp. license",
+      "pay for demerit point",
+      "vehicle registration",
+      "permits",
+      "accessible parking permit",
+      "organ donation",
+      "birth, marriage and death certificates",
+      "fishing and hunting",
+      "pay specific taxes",
+      "register business name"
+    ],
+    "schedules": []
+  },
+  {
+    "city": "Hamilton",
+    "id": 11367,
+    "locationTypeId": 3,
+    "displayNumber": "(416) 757-1511",
+    "name": "119 King Street West, 4th Flr",
+    "locationGuid": "48dcc53c-78eb-44ee-80e7-6cca717a41a2",
+    "waitTime": 30,
+    "location": {
+      "lat": 43.257094,
+      "lon": -79.871365
+    },
+    "services": [
+      "Renew driver license",
+      "Replace driver's license",
+      "reinstate driver's license",
+
+      "pay for demerit point",
+      "vehicle registration",
+      "permits",
+      "accessible parking permit",
+      "stickers",
+
+      "organ donation",
+      "birth, marriage and death certificates",
+      "fishing and hunting",
+      "pay specific taxes"
+    ],
+    "schedules": [
+      {
+        "id": 719,
+        "name": "December 25 and 26, 2019",
+        "openings": [
+          {
+            "id": 1249440,
+            "scheduleId": 0,
+            "month": "SEPTEMBER",
+            "dayOfMonth": 30,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed December 25 and 26.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le 25 et 26 décembre.",
+            "repeats": false
+          },
+          {
+            "id": 1249390,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 961,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1249540,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed on Monday February 17.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le lundi 17 février.",
+            "repeats": false
+          },
+          {
+            "id": 1249490,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Hawkesbury",
+    "id": 11368,
+    "locationTypeId": 3,
+    "displayNumber": "(416) 757-1511",
+    "name": "179 Main Street East, Prescott - Land Registry Office #46",
+    "locationGuid": "0db2be0d-2f9e-4ba4-b8f0-d9b16edec569",
+    "waitTime": 70,
+    "location": {
+      "lat": 45.518114,
+      "lon": -74.645916
+    },
+    "services": [
+      "Renew driver license",
+      "Replace driver's license",
+      "reinstate driver's license",
+      "change info on driver's license",
+      "get temp. license",
+      "pay for demerit point",
+      "vehicle registration",
+      "permits",
+      "accessible parking permit",
+      "stickers",
+      "health card",
+
+      "organ donation",
+      "birth, marriage and death certificates"
+    ],
+
+    "schedules": [
+      {
+        "id": 719,
+        "name": "December 25 and 26, 2019",
+        "openings": [
+          {
+            "id": 1249440,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed December 25 and 26.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le 25 et 26 décembre.",
+            "repeats": false
+          },
+          {
+            "id": 1249390,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 961,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1249540,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed on Monday February 17.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le lundi 17 février.",
+            "repeats": false
+          },
+          {
+            "id": 1249490,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Kingston",
+    "id": 11370,
+    "locationTypeId": 3,
+    "displayNumber": "(416) 757-1511",
+    "name": "1201 Division  Street, Frontenac - Land Registry Office #13",
+    "locationGuid": "edb72eb3-a8ca-4785-b12b-03c64458d101",
+    "waitTime": 50,
+    "location": {
+      "lat": 44.386734,
+      "lon": -76.475022
+    },
+    "services": [
+      "Renew driver license",
+      "Replace driver's license",
+      "reinstate driver's license",
+      "change info on driver's license",
+
+      "vehicle registration",
+      "permits",
+      "accessible parking permit",
+      "stickers",
+      "health card",
+
+      "organ donation",
+      "birth, marriage and death certificates",
+      "fishing and hunting",
+      "pay specific taxes"
+    ],
+
+    "schedules": [
+      {
+        "id": 719,
+        "name": "December 25 and 26, 2019",
+        "openings": [
+          {
+            "id": 1249440,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed December 25 and 26.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le 25 et 26 décembre.",
+            "repeats": false
+          },
+          {
+            "id": 1249390,
+            "scheduleId": 0,
+            "month": "DECEMBER",
+            "dayOfMonth": 25,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 2880,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      },
+      {
+        "id": 961,
+        "name": "February 17, 2020",
+        "openings": [
+          {
+            "id": 1249540,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 14,
+            "eventType": "NOTIFICATION",
+            "recurrence": "YEARLY",
+            "notificationMsgEn": "All Land Registry Offices will be closed on Monday February 17.",
+            "notificationMsgFr": "Tous les bureaux d\u0027enregistrement des droits immobiliers seront fermés le lundi 17 février.",
+            "repeats": false
+          },
+          {
+            "id": 1249490,
+            "scheduleId": 0,
+            "month": "FEBRUARY",
+            "dayOfMonth": 17,
+            "dayOfWeek": "SUNDAY",
+            "weekdayOccurrence": 0,
+            "hour": 0,
+            "minute": 0,
+            "duration": 1440,
+            "leadTimeDays": 0,
+            "eventType": "HOLIDAY",
+            "recurrence": "YEARLY",
+            "repeats": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Brampton",
+    "id": 11795,
+    "locationTypeId": 9,
+    "displayNumber": "(416) 757-1511",
+    "name": "1 Wexford Road, Unit 13, Brampton North",
+    "locationGuid": "a11fd13d-2828-4908-881a-2370cf5d82ba",
+    "waitTime": 10,
+    "location": {
+      "lat": 43.7098483,
+      "lon": -79.7918532
+    },
+    "services": [
+      "Renew driver license",
+      "Replace driver's license",
+      "reinstate driver's license",
+      "change info on driver's license",
+      "get temp. license",
+      "pay for demerit point",
+      "vehicle registration",
+      "permits",
+      "accessible parking permit",
+      "stickers",
+      "health card",
+      "photocard",
+      "organ donation",
+      "birth, marriage and death certificates",
+      "fishing and hunting",
+      "pay specific taxes"
+    ],
+    "schedules": []
+  }
+]
