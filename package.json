@@ -19,7 +19,7 @@
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
     "elasticsearch": "^16.3.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gmaps": "^0.4.24",
     "google-autocomplete-vue": "^1.0.17",
     "google-maps-api-loader": "^1.1.1",
